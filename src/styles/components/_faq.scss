@@ -1,0 +1,11 @@
+.question {
+  display: flex;
+  justify-content: space-around;
+}
+
+.answer {
+  height: 0;
+  opacity: 0;
+  display: flex;
+  overflow: hidden;
+}
